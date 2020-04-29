@@ -1,0 +1,23 @@
+<control>
+default_path=../vocals/
+
+<global>
+// parameters that affect the whole instrument go here.
+
+lfo01_pitch_oncc111=35
+lfo01_freq=2
+lfo01_freq_oncc112=8
+
+loop_mode=loop_continuous
+// *****************************************************************************
+// Your mapping starts here
+// *****************************************************************************
+
+<group> // 1
+
+<region>
+lokey=2 
+hikey=127 
+pitch_keycenter=48 
+region_label=KK Howl c5 
+sample=KK_Howl_c5.wav
