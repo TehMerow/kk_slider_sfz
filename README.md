@@ -1,6 +1,18 @@
-# kk_slider_sfz
-An updated version of the KK Slider soundfont using SFZ as the sampler
+# KK Slider Samples and SFZ files to be used in music making
+
 
 Realized I wasn't the only one that was having problems with the KK Slider Soundfont with  SForzando. So I took the time to pull out all the vocal kk slider samples and guitar samples from the soundfont and manually make the SFZ patches. 
 
-All samples can be used in a sampler but included are SFZ patches for every sample
+# The Samples
+
+All samples are ACIDIZED and have root key attached, Each sample is labeled with the Key as well incase that doesn't work. included are SFZ patches for every sample
+The only samples that are not are the Guitar patch sample and the beatbox ones. 
+
+# Using With Sforzando
+
+Drag and drop the SFZ files onto an Sforzando instance
+
+
+# Directwave
+
+The Directwave File is used for FL Studio Directwave. Each vocal part is assigned to a midi channel which can be accessed with the note colors in FL
