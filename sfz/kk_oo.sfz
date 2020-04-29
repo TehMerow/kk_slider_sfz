@@ -1,0 +1,23 @@
+<control>
+default_path=../vocals/
+
+<global>
+// parameters that affect the whole instrument go here.
+
+lfo01_pitch_oncc111=35
+lfo01_freq=2
+lfo01_freq_oncc112=8
+
+loop_mode=loop_continuous
+// *****************************************************************************
+// Your mapping starts here
+// *****************************************************************************
+
+<group> // 1
+
+<region>
+lokey=2 
+hikey=127 
+pitch_keycenter=60 
+region_label=KK oo c3 
+sample=KK_oo_c3.wav
