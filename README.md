@@ -6,7 +6,8 @@ Realized I wasn't the only one that was having problems with the KK Slider Sound
 # The Samples
 
 All samples are ACIDIZED and have root key attached, Each sample is labeled with the Key as well incase that doesn't work. included are SFZ patches for every sample
-The only samples that are not are the Guitar patch sample and the beatbox ones. 
+
+The only samples that are not ACIDIZED are the Guitar patch sample and the beatbox ones. 
 
 # Using With Sforzando
 
